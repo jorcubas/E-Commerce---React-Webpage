@@ -1,6 +1,7 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
 
+// React Component Tells Render SVG file.
 import { ReactComponent as Logo } from '../../assets/crown.svg';
 
 import './header.styles.scss';
